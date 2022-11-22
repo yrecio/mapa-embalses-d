@@ -38,10 +38,7 @@ td strong{
 		height: 40rem;
 	}
 	
-	.panel h2 {
-		font-size: 1.3rem;
-		flex-wrap: wrap;
-	}
+
 }
 
 @media (min-width: 700px) and (max-width: 900px){
@@ -49,10 +46,7 @@ td strong{
 		height: 40rem;
 	}
 	
-	.panel h2 {
-		font-size: 1.3rem;
-		flex-wrap: wrap;
-	}
+
 }
 
 .thumbs{
